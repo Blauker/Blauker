@@ -6,21 +6,21 @@
 * Self-Studying Fullstack Development on free times.
 
 ## Social:
-<a href="https://twitter.com/BlaukerDev"><code><img height="60" src="https://github.com/github/explore/blob/main/topics/twitter/twitter.png?raw=true"></code></a> ////// 
-<a href="https://www.reddit.com/user/Giyuu_Blauker/"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/ae.png?raw=true"></code></a> ////// 
-<a href="https://play.google.com/store/apps/dev?id=7706527853211406030&hl=es&gl=US"><code><img height="60" src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png?raw=true"></code></a>
+<a href="https://twitter.com/BlaukerDev"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/twitter.png?raw=true"></code></a> 
+<a href="https://www.reddit.com/user/Giyuu_Blauker/"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/reddit.png?raw=true"></code></a>
+<a href="https://play.google.com/store/apps/dev?id=7706527853211406030&hl=es&gl=US"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/google.png?raw=true"></code></a>
 
 
 ## Languages:
-<code><img height="60" src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png?raw=true"></code>
-<code><img height="60" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png?raw=true"></code>
-<code><img height="60" src="https://github.com/github/explore/blob/main/topics/java/java.png?raw=true"></code>
-<code><img height="60" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true"></code>
-<code><img height="60" src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true"></code>
-<code><img height="60" src="https://github.com/github/explore/blob/main/topics/html/html.png?raw=true"></code>
-<code><img height="60" src="https://github.com/github/explore/blob/main/topics/css/css.png?raw=true"></code>
-<code><img height="60" src="https://github.com/github/explore/blob/main/topics/sass/sass.png?raw=true"></code>
-<code><img height="60" src="https://github.com/github/explore/blob/main/topics/react/react.png?raw=true"></code>
+<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/cpp.png?raw=true"></code>
+<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/csharp.png?raw=true"></code>
+<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/java.png?raw=true"></code>
+<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/python.png?raw=true"></code>
+<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/html.png?raw=true"></code>
+<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/css.png?raw=true"></code>
+<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/js.png?raw=true"></code>
+<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/react.png?raw=true"></code>
+<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/sass.png?raw=true"></code>
 
 <!--
 ## Tools:
