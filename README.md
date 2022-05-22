@@ -7,7 +7,7 @@
 
 ## Social:
 <a href="https://twitter.com/BlaukerDev"><code><img height="60" src="https://github.com/github/explore/blob/main/topics/twitter/twitter.png?raw=true"></code></a> ////// 
-<a href="https://www.reddit.com/user/Giyuu_Blauker/"><code><img height="60" src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png?raw=true"></code></a> ////// 
+<a href="https://www.reddit.com/user/Giyuu_Blauker/"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/ae.png?raw=true"></code></a> ////// 
 <a href="https://play.google.com/store/apps/dev?id=7706527853211406030&hl=es&gl=US"><code><img height="60" src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png?raw=true"></code></a>
 
 
