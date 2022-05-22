@@ -24,7 +24,7 @@
 
 ## Digital Skills:
 <code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/ps.png?raw=true"></code>
-<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/pr.png?raw=true"></code>
+<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/premiere.png?raw=true"></code>
 <code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/ae.png?raw=true"></code>
 <code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/ai.png?raw=true"></code>
 
