@@ -22,6 +22,12 @@
 <code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/react.png?raw=true"></code>
 <code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/sass.png?raw=true"></code>
 
+## Digital Skills:
+<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/ps.png?raw=true"></code>
+<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/pr.png?raw=true"></code>
+<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/ae.png?raw=true"></code>
+<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/ai.png?raw=true"></code>
+
 <!--
 ## Tools:
 <code><img height="60" src="https://github.com/github/explore/blob/main/topics/photoshop/photoshop.png?raw=true"></code>
