@@ -6,7 +6,7 @@
 * Self-Studying Fullstack Development on free times.
 
 ## Social:
-<a href="https://twitter.com/BlaukerDev"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/twitter.png?raw=true"></code></a> 
+<a href="https://twitter.com/BlaukerDev"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/twitterr.png?raw=true"></code></a> 
 <a href="https://www.reddit.com/user/Giyuu_Blauker/"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/reddit.png?raw=true"></code></a>
 <a href="https://play.google.com/store/apps/dev?id=7706527853211406030&hl=es&gl=US"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/google.png?raw=true"></code></a>
 
@@ -21,6 +21,7 @@
 <code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/js.png?raw=true"></code>
 <code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/react.png?raw=true"></code>
 <code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/sass.png?raw=true"></code>
+<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/unity.png?raw=true"></code>
 
 
 ## Digital Skills:
