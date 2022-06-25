@@ -12,8 +12,8 @@
 
 ## My Games and Apps:
 <a href="https://play.google.com/store/apps/details?id=com.GiyuuDev.SevenDSCCCalculator&hl=es&gl=US"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/7DSCCCalculator.webp?raw=true"></code></a>
-7DS CC Calculator
-~200k views and +21k downloads [June 2022]
+7DS CC Calculator | 
++194k views & +21k downloads [June 2022]
 ![alt text](https://github.com/Blauker/Blauker/blob/main/Icons/7DSCCCalculatorStats.jpg?raw=true)
 
 <a href="github.com/Blauker/Image-Feather"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/ImageFeather.png?raw=true"></code></a> 
