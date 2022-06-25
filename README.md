@@ -11,7 +11,10 @@
 <a href="https://play.google.com/store/apps/dev?id=7706527853211406030&hl=es&gl=US"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/google.png?raw=true"></code></a>
 
 ## My Games and Apps:
-<a href="https://play.google.com/store/apps/details?id=com.GiyuuDev.SevenDSCCCalculator&hl=es&gl=US"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/7DSCCCalculator.webp?raw=true"></code></a> 
+- 7DS CC Calculator (v 1.1.0)
+<a href="https://play.google.com/store/apps/details?id=com.GiyuuDev.SevenDSCCCalculator&hl=es&gl=US"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/7DSCCCalculator.webp?raw=true"></code></a>
+![alt text](https://github.com/Blauker/Blauker/blob/main/Icons/7DSCCCalculatorStats.jpg?raw=true)
+
 <a href="github.com/Blauker/Image-Feather"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/ImageFeather.png?raw=true"></code></a> 
 
 ## Languages:
