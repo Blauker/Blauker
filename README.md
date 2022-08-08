@@ -4,6 +4,7 @@
 * Studying Informatics Engineering to improve my coding skills.
 * Self-Taught App and Game Developer.
 * Self-Studying Fullstack Development on free times.
+* Contact me: blauker.contact@gmail.com
 
 ## Social:
 <a href="https://twitter.com/BlaukerDev"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/twitterr.png?raw=true"></code></a> 
