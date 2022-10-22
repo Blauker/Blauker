@@ -18,7 +18,7 @@
 
 <a href="github.com/Blauker/Image-Feather"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/ImageFeather.png?raw=true"></code></a> Image Feather
 
-<a href="https://www.tof-database.com/"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/TofDatabase.png?raw=true"></code></a> Tower of Fantasy Database (website)
+<a href="https://www.tof-database.com/"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/ToF-Database.png?raw=true"></code></a> Tower of Fantasy Database (website)
 
 ## Languages:
 <code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/cpp.png?raw=true"></code>
