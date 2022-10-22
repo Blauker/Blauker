@@ -14,10 +14,11 @@
 ## My Games and Apps:
 <a href="https://blauker.com/7ds-cc-calculator"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/7DSCCCalculator.webp?raw=true"></code></a>
 7DS CC Calculator | 
-+194k views & +21k downloads [June 2022]
-![alt text](https://github.com/Blauker/Blauker/blob/main/Icons/7DSCCCalculatorStats.jpg?raw=true)
++300k views & +32k downloads [October 2022]
 
-<a href="github.com/Blauker/Image-Feather"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/ImageFeather.png?raw=true"></code></a> 
+<a href="github.com/Blauker/Image-Feather"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/ImageFeather.png?raw=true"></code></a> Image Feather
+
+<a href="https://www.tof-database.com/"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/TofDatabase.png?raw=true"></code></a> Tower of Fantasy Database (website)
 
 ## Languages:
 <code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/cpp.png?raw=true"></code>
@@ -27,10 +28,13 @@
 <code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/html.png?raw=true"></code>
 <code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/css.png?raw=true"></code>
 <code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/js.png?raw=true"></code>
-<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/react.png?raw=true"></code>
 <code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/sass.png?raw=true"></code>
-<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/unity.png?raw=true"></code>
 
+## Tools:
+<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/unity.png?raw=true"></code>
+<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/react.png?raw=true"></code>
+<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/nextjs.png?raw=true"></code>
+<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/vercel.png?raw=true"></code>
 
 ## Digital Skills:
 <code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/ps.png?raw=true"></code>
