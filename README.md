@@ -33,7 +33,7 @@
 ## Tools:
 <code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/unity.png?raw=true"></code>
 <code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/react.png?raw=true"></code>
-<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/nextjs.png?raw=true"></code>
+<code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/next.png?raw=true"></code>
 <code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/vercel.png?raw=true"></code>
 
 ## Digital Skills:
