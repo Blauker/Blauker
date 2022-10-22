@@ -12,7 +12,7 @@
 <a href="https://play.google.com/store/apps/dev?id=7706527853211406030&hl=es&gl=US"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/google.png?raw=true"></code></a>
 
 ## My Games and Apps:
-<a href="https://play.google.com/store/apps/details?id=com.GiyuuDev.SevenDSCCCalculator&hl=es&gl=US"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/7DSCCCalculator.webp?raw=true"></code></a>
+<a href="https://blauker.com/7ds-cc-calculator"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/7DSCCCalculator.webp?raw=true"></code></a>
 7DS CC Calculator | 
 +194k views & +21k downloads [June 2022]
 ![alt text](https://github.com/Blauker/Blauker/blob/main/Icons/7DSCCCalculatorStats.jpg?raw=true)
@@ -37,31 +37,3 @@
 <code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/premiere.png?raw=true"></code>
 <code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/ae.png?raw=true"></code>
 <code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/ai.png?raw=true"></code>
-
-<!--
-## Tools:
-<code><img height="60" src="https://github.com/github/explore/blob/main/topics/photoshop/photoshop.png?raw=true"></code>
-<code><img height="60" src="https://github.com/github/explore/blob/main/topics/django/django.png?raw=true"></code>
-<code><img height="60" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png?raw=true"></code>
-<code><img height="60" src="https://github.com/github/explore/blob/main/topics/docker/docker.png?raw=true"></code>
-<code><img height="60" src="https://github.com/github/explore/blob/main/topics/git/git.png?raw=true"></code>
-<code><img height="60" src="https://github.com/github/explore/blob/main/topics/terminal/terminal.png?raw=true"></code>
-<code><img height="50" src="https://about.gitlab.com/images/ci/gitlab-ci-cd-logo_2x.png"></code>
-
-## Projects
-I’m currently working on new website for private Nostale servers. Also I offer help with setup and maintence websites.  
-* <a href="https://atlagaming.eu/">https://atlagaming.eu/</a> Nostale private server (now is offline)
-* <a href="https://ts.atlagaming.eu/">https://ts.atlagaming.eu/</a> Tool for Opennos (Nostale priv servers) to creating timespaces easier
-* <a href="https://itempicker.atlagaming.eu/">https://itempicker.atlagaming.eu/</a> Itempicker with all Nostale Items (also with API for devs to use this icons easier)
-
-and more ;-)
-
-
-## Stats 
-Not all because I work lots of in company git systems.
-
-Top Languages       |  Wakatime
-:-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gorlikitsme&count_private=true&langs_count=7&hide=html&layout=compact)  |  [![](https://github-readme-stats.vercel.app/api/wakatime?username=gorlikitsme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-**GitHub Stats** |
-![](https://github-readme-stats.vercel.app/api?username=gorlikitsme&count_private=true) | -->
