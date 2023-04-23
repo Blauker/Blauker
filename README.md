@@ -14,7 +14,7 @@
 ## My Games and Apps:
 <a href="https://blauker.com/7ds-cc-calculator"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/7DSCCCalculator.webp?raw=true"></code></a>
 7DS CC Calculator | 
-+300k views & +32k downloads [October 2022]
++484k views & +46k downloads [April 2023]
 
 <a href="github.com/Blauker/Image-Feather"><code><img height="60" src="https://github.com/Blauker/Blauker/blob/main/Icons/ImageFeather.png?raw=true"></code></a> Image Feather
 
